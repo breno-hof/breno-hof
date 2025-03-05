@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @breno-hof
 - 👀 I'm interested in cybersecurity, web development, cloud computing and other technology sources
-- 🌱 Currently, I'm learning Bend Language and massive paralelism
+- 🌱 Currently, I'm learning Bend Language and massive parallelism
 - 💞️ I’m looking to collaborate on opensource projects
 - ⚡ Fun fact: I'm Brazilian
 
