@@ -1,7 +1,5 @@
 # 𝙃𝙞, 𝙩𝙝𝙚𝙧𝙚 👋
 
-![]([https://wakatime.com/@56ad1647-52b2-44eb-beb1-285a9b53819b](https://wakatime.com/@5198280c-81f1-43b8-8123-9f7061270e62))
-
 <p align="justify">
   <a href="https://github.com/breno-hof">
     <img
