@@ -1,10 +1,17 @@
-- 👋 Hi, I’m @breno-hof
-- 👀 I'm interested in cybersecurity, web development, cloud computing and other technology sources
-- 🌱 Currently, I'm learning Bend Language and massive parallelism
-- 💞️ I’m looking to collaborate on opensource projects
-- ⚡ Fun fact: I'm Brazilian
+# 𝙃𝙞, 𝙩𝙝𝙚𝙧𝙚 👋
 
-<!---
-breno-hof/breno-hof is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+[![]([https://wakatime.com/@56ad1647-52b2-44eb-beb1-285a9b53819b](https://wakatime.com/@5198280c-81f1-43b8-8123-9f7061270e62))
+
+<p align="justify">
+  <a href="https://github.com/breno-hof">
+    <img
+      height="150"
+      src="https://github-readme-stats.vercel.app/api?username=breno-hof&count_private=true&show_icons=true&custom_title=Github%20Status&show=issues&theme=transparent"
+    />
+  </a>
+  <a href="https://github.com/breno-hof">
+    <img
+      height="150"
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=breno-hof&layout=compact&theme=transparent" />
+  </a>  
+</p>
